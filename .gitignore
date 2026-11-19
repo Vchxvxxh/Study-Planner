@@ -1,0 +1,7 @@
+config.php
+.env
+uploads/*
+!uploads/.htaccess
+!uploads/.gitkeep
+*.sqlite
+.DS_Store
