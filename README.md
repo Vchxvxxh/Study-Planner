@@ -31,3 +31,9 @@ Never commit `config.php`; it is git-ignored.
 ## Known limitation
 
 Login is email-only with no verification, so anyone who knows an email can open that planner. Fine for a personal project, add email OTP or passwords before storing anything sensitive.
+
+## Development
+
+Built by N.M. Niloy with AI assistance (Claude by Anthropic) for code
+cleanup, bilingual (Bangla/English) support, and documentation.
+All code was reviewed and tested by the author.
