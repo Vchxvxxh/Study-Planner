@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://study-planner.gt.tc">
-    <strong> VIEW LIVE WEBSITE ↗</strong>
+    <strong> VIEW LIVE WEBSITE </strong>
   </a>
 </p>
 
