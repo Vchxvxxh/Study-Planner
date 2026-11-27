@@ -1,5 +1,11 @@
 # Semester Final Planner
 
+<p align="center">
+  <a href="https://study-planner.gt.tc">
+    <strong> VIEW LIVE WEBSITE </strong>
+  </a>
+</p>
+
 Exam study planner: add subjects, chapters and deadlines, and it spreads the remaining work over the days left (earliest deadline first, re-planned daily). Optional account sync across devices.
 
 **Languages:** Bangla (default, mixed with common English terms) and English. Switch with the button in the header; the choice is remembered. To add or edit text, change both `bn` and `en` in `js/i18n.js`.
